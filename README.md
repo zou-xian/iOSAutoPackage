@@ -2,19 +2,19 @@
 iOS自动打包脚本
 上传蒲公英
 
-###需要修改的地方
+### 需要修改的地方
 *****************************
 project_name =  "xx"
 
 project_type = "xcworkspace"
 
-###蒲公英配置
+### 蒲公英配置
 api_key = "xx"
 user_key = "xxx"
 
 
 
-###info.plist配置
+### info.plist配置
 1.compileBitcode：是否编译bitcode
 
 2.method：
